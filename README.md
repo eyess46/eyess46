@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eyess46
-- 👀 I’m proficient in CSS, HTML, Python and Django
+- 👀 I’m proficient in CSS, HTML, Python and Django, C#
 - 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on python and django projects and also in the future Javascript
+- 💞️ I’m looking to collaborate on C#, python and django projects and also in the future Javascript
 - 📫 How to reach me
 - tochukwucollinsonu@gmail.com
 - WhatsApp: +2348052235046
