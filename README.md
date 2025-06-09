@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyess46
 - 👀 I’m proficient in Python and Django as a Backend Developer, C#
-- 🌱 I’m currently learning Cybersecurity/Pentration Testing
+- 🌱 Cybersecurity | Pentration Testing Analysist
 - 💞️ I’m looking to collaborate on C#, python and django projects and also in the future Javascript
 - 📫 How to reach me
 - tochukwucollinsonu@gmail.com
